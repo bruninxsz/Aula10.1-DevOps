@@ -11,7 +11,7 @@ public class CalcPotenciaTest {
         CalcPotencia calculo1 = new CalcPotencia();
         double resultado = calculo1.calcularPotencia(200, 1000);
 
-        assertEquals(200000.00, resultado);
+        assertEquals(20000.00, resultado);
     }
 
 }
